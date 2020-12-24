@@ -238,7 +238,6 @@
                 <artifactId>commons-io</artifactId>
                 <version>${common.io.version}</version>
             </dependency>
-
             <dependency>
                 <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
