@@ -46,7 +46,7 @@
         <servlet.version>3.1.0</servlet.version>
         <commons.net.version>3.1</commons.net.version>
         <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
-        <common.io.version>2.6</common.io.version>
+        <common.io.version>2.7</common.io.version>
 
 
     </properties>
